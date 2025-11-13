@@ -21,10 +21,7 @@ Tools Used
 - `Untitled4.ipynb` – Code notebook  
 - `Titanic-Dataset.csv` – Original dataset  
 - `Titanic_Cleaned.csv` – Cleaned dataset  
-- `Screenshots/` – Output proofs and progress images  
 
-## 👩‍💻 Author
-Ashwini Vadekar
+Author
+Ashwini Wadekar
 
-## 🔗 Submission
-GitHub Repo: [Your repository link here]
